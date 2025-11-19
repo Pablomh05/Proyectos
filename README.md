@@ -4,21 +4,21 @@
 
 Estudiante proactivo de **3er curso del Grado en Ingeniería Informática** en la **Universidad de Murcia (UMU)**, actualmente cursando el primer cuatrimestre y en búsqueda activa de **prácticas externas** para el segundo cuatrimestre.
 
-Mi objetivo es aplicar y expandir mis sólidos conocimientos académicos en un entorno profesional, centrándome en la **[Elige tu área de interés: Desarrollo de Software, Gestión de Bases de Datos, Ciberseguridad, etc.]**.
+Mi objetivo es aplicar y expandir mis conocimientos académicos en un entorno profesional, centrándome en la **[Elige tu área de interés: Desarrollo de Software, Gestión de Bases de Datos, Ciberseguridad, etc.]**.
 
 ***
 
-### 🛠 Habilidades Técnicas (Skills)
+### 🛠 Habilidades Técnicas
 
-Lista de tecnologías y herramientas dominadas a nivel académico o por proyectos personales:
+Lista de tecnologías y herramientas usadas a nivel académico o por proyectos personales:
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes de Programación** | Java (POO), Python, C, SQL. |
-| **Bases de Datos** | MySQL, PostgreSQL, modelado relacional, consultas avanzadas. |
+| **Lenguajes de Programación** | Java (POO), Python, C/C++, SQL. |
+| **Bases de Datos** | MySQL, modelado relacional, consultas avanzadas. |
 | **Web** | HTML5, CSS3, JavaScript (Nivel básico/intermedio). |
 | **Control de Versiones** | Git / GitHub (Control de ramas, *pull requests*, *commits*). |
-| **Sistemas Operativos** | Manejo de entornos Linux (terminal, comandos básicos de administración). |
+| **Sistemas Operativos** | Manejo de entornos Linux (terminal, comandos básicos de administración y usuario). |
 | **Conceptos** | Algoritmos, Estructuras de Datos, Programación Orientada a Objetos (POO). |
 
 ***
@@ -48,6 +48,5 @@ Esta sección es CRUCIAL. Añade enlaces a tus proyectos más importantes (Ejemp
 
 | Plataforma | Enlace / Información |
 | :--- | :--- |
-| **Email** | [Tu Correo Electrónico Profesional] |
-| **LinkedIn** | [Tu URL de Perfil de LinkedIn] |
+| **Email** | pablomero05@gmail.com |
 | **Universidad** | Estudiante en la Universidad de Murcia (UMU) |

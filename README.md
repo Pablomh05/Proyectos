@@ -28,6 +28,7 @@ Lista de tecnologías y herramientas usadas a nivel académico o por proyectos p
 * **Descripción:** Proyecto académico de Redes de Comunicaciones. Implementación de un sistema peer-to-peer usando sockets TCP para localización y transferencia de archivos.
 * **Tecnologías:** Java, Sockets, Redes P2P
 * Calificado con un 10
+* El proyecto está ubicado en la carpeta nanofiles-p2p-java.
 
 ***
 

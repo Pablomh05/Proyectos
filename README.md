@@ -22,23 +22,11 @@ Lista de tecnologías y herramientas usadas a nivel académico o por proyectos p
 
 ***
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyecto Destacado
 
-Esta sección es CRUCIAL. Añade enlaces a tus proyectos más importantes (Ejemplos sugeridos basados en un currículo típico de 3º):
-
-#### 1. [Nombre del Proyecto 1] - (Ej: Sistema de Gestión Académica)
-* **Descripción:** [Una frase. Ej: Aplicación de escritorio para la gestión de notas y usuarios.]
-* **Tecnologías:** `Java`, `Swing`, `MySQL`
-* **Enlace al Repositorio:** https://www.lareferencia.info/es/
-
-#### 2. [Nombre del Proyecto 2] - (Ej: Implementación de Estructuras de Datos)
-* **Descripción:** [Implementación de algoritmos avanzados (árboles binarios, grafos) para la asignatura de Algoritmia.]
-* **Tecnologías:** `C` o `Python`
-* **Enlace al Repositorio:** https://www.lareferencia.info/es/
-
-#### 3. [Nombre del Proyecto 3] - (Ej: Web Estática con BBDD)
-* **Descripción:** [Desarrollo de una pequeña web de contenido interactuando con una base de datos mediante PHP o un micro-framework de Python.]
-* **Tecnologías:** `HTML`, `CSS`, `JavaScript`, `SQL`
+#### NanoFiles – Sistema P2P en Java
+* **Descripción:** Proyecto académico de Redes de Comunicaciones. Implementación de un sistema peer-to-peer usando sockets TCP para localización y transferencia de archivos.
+* **Tecnologías:** Java, Sockets, Redes P2P
 * **Enlace al Repositorio:** https://www.lareferencia.info/es/
 
 ***

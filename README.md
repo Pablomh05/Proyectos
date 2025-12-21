@@ -4,7 +4,7 @@
 
 Estudiante proactivo de **3er curso del Grado en Ingeniería Informática** en la **Universidad de Murcia (UMU)**, actualmente cursando el primer cuatrimestre y en búsqueda activa de **prácticas externas** para el segundo cuatrimestre.
 
-Mi objetivo es aplicar y expandir mis conocimientos académicos en un entorno profesiona.
+Mi objetivo es aplicar y expandir mis conocimientos académicos en un entorno profesional.
 
 ***
 

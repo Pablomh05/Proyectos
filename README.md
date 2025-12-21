@@ -27,7 +27,7 @@ Lista de tecnologías y herramientas usadas a nivel académico o por proyectos p
 #### NanoFiles – Sistema P2P en Java
 * **Descripción:** Proyecto académico de Redes de Comunicaciones. Implementación de un sistema peer-to-peer usando sockets TCP para localización y transferencia de archivos.
 * **Tecnologías:** Java, Sockets, Redes P2P
-* **Calificado con un 10
+* Calificado con un 10
 
 ***
 

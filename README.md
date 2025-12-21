@@ -16,7 +16,6 @@ Lista de tecnologías y herramientas usadas a nivel académico o por proyectos p
 | :--- | :--- |
 | **Lenguajes de Programación** | Java (POO), Python, C/C++, SQL. |
 | **Bases de Datos** | MySQL, modelado relacional, consultas avanzadas. |
-| **Web** | HTML5, CSS3, JavaScript (Nivel básico/intermedio). |
 | **Control de Versiones** | Git / GitHub (Control de ramas, *pull requests*, *commits*). |
 | **Sistemas Operativos** | Manejo de entornos Linux (terminal, comandos básicos de administración y usuario). |
 | **Conceptos** | Algoritmos, Estructuras de Datos, Programación Orientada a Objetos (POO). |
